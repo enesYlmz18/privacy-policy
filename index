@@ -1,0 +1,73 @@
+Gizlilik Politikası
+
+Son güncelleme: 2025
+
+Bu Gizlilik Politikası, [Meteoros:Weather App] adlı mobil uygulamayı kullanırken kullanıcı verilerinin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
+
+Uygulamayı kullanarak bu politikayı kabul etmiş olursunuz.
+
+1. Toplanan Veriler
+
+Uygulama, kullanıcıdan doğrudan kişisel bilgi toplamaz.
+Ancak aşağıdaki üçüncü taraf hizmetleri, kendi gereksinimleri doğrultusunda bazı verileri otomatik olarak toplayabilir:
+
+1.1. Google AdMob (Reklamlar)
+
+Reklam göstermek için şu bilgiler toplanabilir:
+
+Cihaz bilgileri (model, işletim sistemi)
+
+Reklam etkileşimleri
+
+Yaklaşık konum (kesin konum değil)
+
+AdMob’un politikası:
+https://policies.google.com/technologies/ads
+
+2. Kullanılan Üçüncü Taraf Hizmetleri
+
+Google Mobile Ads (AdMob)
+
+HTTP API Hizmetleri (örn: hava durumu API, şehir sorguları)
+
+Bu hizmetler kendi gizlilik politikalarına sahiptir.
+
+3. Konum Verileri
+
+Uygulama kesin GPS konumu toplamaz.
+Eğer hava durumu, şehir veya harita gibi özellikler kullanıyorsan:
+
+Cihazın yaklaşık konumu API üzerinden alınabilir.
+
+Bu bilgi yalnızca uygulamanın çalışması için kullanılır.
+
+4. Verilerin Kullanımı
+
+Toplanan veriler şunlar için kullanılır:
+
+Reklamların kişiselleştirilmesi veya genel reklam gösterimi
+
+Uygulama performansının iyileştirilmesi
+
+Hata ayıklama ve istatistik
+
+Kullanıcı verileri satılmaz, paylaşılmaz, ticari amaçla kullanılmaz.
+
+5. Verilerin Saklanması ve Güvenlik
+
+Uygulama kendi sunucusunda veri saklamaz.
+Toplanan tüm veriler, yalnızca Google ve API sağlayıcılarının sistemlerinde tutulur.
+
+6. Çocuklara Yönelik Kullanım
+
+Uygulama 13 yaş altı kullanıcıları hedeflemez.
+Google AdMob politikalarına uygun şekilde çocuklara özel reklam gösterilmez.
+
+7. Gizlilik Politikasındaki Değişiklikler
+
+Bu politika zaman zaman güncellenebilir. Değişiklikler bu sayfada yayımlanır.
+
+8. İletişim
+
+Sorularınız için:
+[enes12269@gmail.com]
