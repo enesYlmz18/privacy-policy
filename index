@@ -40,6 +40,7 @@ Eğer hava durumu, şehir veya harita gibi özellikler kullanıyorsan:
 Cihazın yaklaşık konumu API üzerinden alınabilir.
 
 Bu bilgi yalnızca uygulamanın çalışması için kullanılır.
+Kullanıcıların Konumları Dışarıya Sızdırılmaz ve İşlenmez.
 
 4. Verilerin Kullanımı
 
